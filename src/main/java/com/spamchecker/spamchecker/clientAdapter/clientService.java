@@ -26,7 +26,7 @@ public class clientService {
 
 		HttpRequest request = HttpRequest.newBuilder()
 							  .uri(URI.create(uri))
-							  .header("X-RapidAPI-Key", "5513f4da55msha9a9eb727bae897p1dc802jsn85660e1bcb5c")
+							  .header("X-RapidAPI-Key", "X")
 							  .header("X-RapidAPI-Host", "mailcheck.p.rapidapi.com")
 							  .method("GET", HttpRequest.BodyPublishers.noBody())
 							  .build();
