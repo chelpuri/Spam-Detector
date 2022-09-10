@@ -1,0 +1,2 @@
+# spamchecker
+validates sender email
